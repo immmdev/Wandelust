@@ -1,4 +1,8 @@
 # 🧳 Wanderlust
+![Made with Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-AWS-green?style=for-the-badge&logo=mongodb)
+![Render](https://img.shields.io/badge/Hosted%20on-Render-3d348b?style=for-the-badge&logo=render)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
 **Wanderlust** is a fully deployable **property rental marketplace** where users can list personal spaces for rent to tourists and travelers. From mountaintop cabins to city apartments, Wanderlust bridges property owners and adventure seekers with a seamless platform.
 
