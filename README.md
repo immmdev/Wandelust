@@ -40,7 +40,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/wanderlust.git
+git clone https://github.com/immmdev/wanderlust.git
 cd wanderlust
 ```
 
